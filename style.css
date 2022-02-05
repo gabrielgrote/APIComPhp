@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+#formLeft {
+    float: left;
+    padding-left: 50px;
+}
+#formCenter {
+    float: left;
+    padding-left: 50px;
+}
+#formRight {
+    float: left;
+    padding-left: 50px;
+}
+
+#left {
+    float: left;
+}
+#center {
+    float: center;
+}
+#right {
+    float: right;
+}
